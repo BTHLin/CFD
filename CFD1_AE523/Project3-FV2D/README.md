@@ -1,7 +1,5 @@
-In this project, the first and second-order finite volume method will be applied to solve a  
-compressible, subsonic flow over a three-element, high-lift device airfoil. In post-process,  
-the resulting forces, lift and drag coefficients, Mach and pressure contours and streamlines will  
-be presented.  
+In this project, the first and second-order finite volume method will be applied to solve a
+compressible, subsonic flow over a three-element, high-lift device airfoil. In post-process, the resulting forces, lift and drag coefficients, Mach and pressure contours and streamlines will be presented.  
 
 To run the code, download the code folder and runs main.py  
 In main.py, there are several settings can be changed.  
